@@ -1,0 +1,4 @@
+ID        |STUDENT_ID|1ST_PLACE      |1ST_DATE  |2ND_PLACE      |2ND_DATE  |VACCINE_ID|
+14        |SE160005  |HA NOI         |12/2/2021 |HA NOI         |12/3/2021 |10        |
+16        |SE160008  |CAO BANG       |11/08/2021|null           |null      |8         |
+18        |SE160007  |LAM DONG       |27/05/2021|LAM DONG       |27/7/2021 |6         |

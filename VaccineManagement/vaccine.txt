@@ -1,0 +1,7 @@
+2;Sinopharm
+4;AstraZeneca
+6;SputnikV
+8;JansenJ&J
+10;Moderna
+12;Pfizer
+14;Soberana
