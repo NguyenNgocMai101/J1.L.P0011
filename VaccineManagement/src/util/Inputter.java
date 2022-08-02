@@ -1,8 +1,3 @@
-/**
- *
- * @Made by Nguyen Tien Trung SE161075
- */
-
 package util;
 
 import java.text.ParseException;
