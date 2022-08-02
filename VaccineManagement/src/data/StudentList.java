@@ -3,12 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-/**
-*
-* @Made by Nguyen Tien Trung SE161075
-*/
-
 package data;
 
 import java.util.ArrayList;
