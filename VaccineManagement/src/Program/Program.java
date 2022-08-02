@@ -1,7 +1,3 @@
-/**
- *
- * @Made by Nguyen Tien Trung SE161075
- */
 
 package Program;
 
